@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml_advanced_scraper)
+ (name main)
+ (libraries ocaml_advanced_scraper webdriver_cohttp-lwt-unix))
